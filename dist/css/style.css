@@ -1,0 +1,83 @@
+html,body
+{ height:100%;
+    width:100%;
+    
+}
+
+#intro
+{ background:url(../../main.jpg) no-repeat fixed;
+    height:100%; width:100%;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    position: relative;
+}
+.pj h2
+{   text-align: center;
+    font-family:cursive;
+    font-size: 52px;
+    
+}
+.pj li
+{    text-align:center;
+    font-family:lato;
+    font-size: 26px;
+}
+.text-center
+{ text-align:center;
+  vertical-align:middle; 
+    
+}
+
+.welcome
+{ 
+    
+    width: 400px;
+    height: 300px;
+    margin: 30px 50px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+position:relative;
+    left:80px;
+    bottom:-180px;
+}
+
+.contact
+{ text-align:center;
+font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Merriweather Light'), local('Merriweather-Light'), url(https://fonts.gstatic.com/s/merriweather/v8/ZvcMqxEwPfh2qDWBPxn6nmFp2sMiApZm5Dx7NpSTOZk.woff) format('woff');
+}
+.pad-center
+{ padding:50px;
+}
+.gith
+{ padding:20px;
+}
+.ma
+{ text-align:center;
+    vertical-align: middle;
+    font-family:cursive;
+}
+.pd
+{padding-top: 25px;
+}
+.id
+{ font-size: 25px;
+}
+.myname
+{ font-size:30px;
+    font-family:fantasy;
+}
+.textw
+{position:relative;
+    color:black;
+    bottom:200px;
+    left:700px;
+    font-size:100px;
+    font-weight: 200;
+}
