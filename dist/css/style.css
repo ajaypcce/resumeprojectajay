@@ -15,8 +15,9 @@ html,body
 }
 .pj h2
 {   text-align: center;
+    color: yellow;
     font-family:cursive;
-    font-size: 52px;
+    font-size: 72px;
     
 }
 .pj li
